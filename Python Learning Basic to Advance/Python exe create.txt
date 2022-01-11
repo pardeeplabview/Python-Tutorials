@@ -1,0 +1,16 @@
+shift + rightclick on any folder > open shell
+
+after enter loaction > pip install pyinstaller
+
+cerate python file in that folder
+
+try to run > python .py
+
+>pyinstaller tut1.py
+
+> go to same folder location now open >dist > and run .exe
+
+> now lets do one file onle .exe
+
+>pyinstaller --onefile tut1.py
+
